@@ -1,0 +1,18 @@
+<info>
+	<faculty dept="CS">
+		<name>Tanvir</name>
+		<id>1901-1955-2</id>
+		<join_date>21-02-2019</join_date>
+	</faculty>
+	<faculty dept="CS">
+		<name>Sabbir</name>
+		<id>1401-1428-2</id>
+		<join_date>22-02-2014</join_date>
+	</faculty>
+	<faculty dept="EEE">
+		<name>Asad</name>
+		<id>1301-1234-2</id>
+		<join_date>12-01-2013</join_date>
+	</faculty>
+	
+</info>
